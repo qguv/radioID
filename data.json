@@ -1,6 +1,7 @@
 {
 
     "ids" : [
+        "WCWM, Williamsburg. College radio run by William and Mary students. This is Eight Hundred Eight Dalmations.",
         "You're listening to Eight Hundred Eight Dalmations on William and Mary's very own WCWM Williamsburg, 90.9 FM.",
         "This is Eight Hundred Eight Dalmations on 90.9 WCWM, Williamsburg.",
         "You're listening to 90.9 WCWM, Williamsburg. This is Eight Hundred Eight Dalmations.",
@@ -9,6 +10,11 @@
     ],
 
     "chuckles" : {
+        "brag" : [
+            "tastier than your grandma's apple pie",
+            "our variety makes trail mix look bad",
+            "funnier than you, though that's not saying much"
+        ],
         "misc" : [
             "more afraid of you than you are of it"
         ],
@@ -19,11 +25,15 @@
         "medical" : [
             "recommended by zero out of five doctors",
             "not intended to diagnose, treat, cure, or prevent any disease",
-            "less harmful than arsenic"
+            "less harmful than arsenic",
+            "may kill brain cells",
+            "extended listening may cause spontaneous witchcraft"
         ],
         "wm" : [
             "Wawa Pam's favorite radio station",
-            "approved by Taylor Reveley, at least on paper"
+            "approved by Taylor Reveley, at least on paper",
+            "more interesting than that English lecture you're skipping",
+            "broadcasting one hundred meters from Revely's bedroom"
         ],
         "fall" : [
             "because it's warmer in the control room than it is outside"
