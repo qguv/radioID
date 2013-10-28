@@ -1,0 +1,49 @@
+{
+
+    "ids" : [
+        "You're listening to Eight Hundred Eight Dalmations on William and Mary's very own WCWM Williamsburg, 90.9 FM.",
+        "This is Eight Hundred Eight Dalmations on 90.9 WCWM, Williamsburg.",
+        "You're listening to 90.9 WCWM, Williamsburg. This is Eight Hundred Eight Dalmations.",
+        "Eight Hundred Eight Dalmations on WCWM Williamsburg. Chill-wave, indie dance, Synthpop, and Electronica. 90.9 FM.",
+        "90.9 FM, WCWM Williamsburg. This is Eight Hundred Eight Dalmations."
+    ],
+
+    "chuckles" : {
+        "misc" : [
+            "more afraid of you than you are of it"
+        ],
+        "in-jokes" : [
+            "always better than monogram",
+            "now twenty percent cooler"
+        ],
+        "medical" : [
+            "recommended by zero out of five doctors",
+            "not intended to diagnose, treat, cure, or prevent any disease",
+            "less harmful than arsenic"
+        ],
+        "wm" : [
+            "Wawa Pam's favorite radio station",
+            "approved by Taylor Reveley, at least on paper"
+        ],
+        "fall" : [
+            "because it's warmer in the control room than it is outside"
+        ],
+        "politics" : [
+            "more entertaining than fox news on november 4th, 2008"
+        ]
+    },
+
+    "psas" : {
+        "senior citizens" : [
+            "Did you know that by the year 2020, one in five drivers will be age 65 or over? There are many Senior Citizens who are safe drivers, but age does have a tendency to slow all of us down a little. Leaving plenty of space between vehicles is important for all drivers, but it's a good idea for older motorists to give themselves a little extra room, since reaction time can slow with age. It's also smart to allow plenty of time to reach your destination, and plan a route that avoids high-traffic or high-speed areas during rush hour. Vision tends to slip a little too, so wear glasses to drive if you need to. Several organizations, including triple-A and AARP offer defensive driving courses designed especially for drivers over fifty-five. This message was sponsered by the Texas Department of Transportation and the Texas Department of Public Safety."
+        ],
+        "municipal" : [
+            "70% of sewer blockages in the city of Norfolk are caused by Fat, Oil, and Grease poured down the drain. Be a good citizen and empty your greasy waste into a can. Once it has cooled, you can through it away or recycle it at your local recycling center. Don't pour your oil down the drain."
+        ],
+        "safety" : [
+        "It's a fact. About 800 people, including more than 200 children, are killed annually in bicycle-related crashes nationwide, and about 60 percent of these deaths involve a head injury. The good news: research indicates that a helmet can reduce the risk of serious brain injury by 85 percent. Use your head. Use a helmet.",
+        "You wouldn't expect your child to jump on a bike without learning how to safely ride first. Why would you let him ride an ATV without proper training? Riding an ATV is not as easy as it looks. You've got to learn the ropes before you hit the trails. The best way to learn how to ride is to take a training class. Many are free. Too many riders have been killed or seriously injured on ATVs. Don't become a statistic. Take knowledge to the extreme. Log on today to www.atvsafety.gov"
+        ]
+    }
+
+}
