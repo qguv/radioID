@@ -16,7 +16,10 @@
             "funnier than you, though that's not saying much"
         ],
         "misc" : [
-            "more afraid of you than you are of it"
+            "more afraid of you than you are of it",
+            "just say 'no'",
+            "coming to a theater near you",
+            "don't talk to strangers"
         ],
         "in-jokes" : [
             "always better than monogram",
@@ -27,7 +30,8 @@
             "not intended to diagnose, treat, cure, or prevent any disease",
             "less harmful than arsenic",
             "may kill brain cells",
-            "extended listening may cause spontaneous witchcraft"
+            "extended listening may cause spontaneous witchcraft",
+            "not even once"
         ],
         "wm" : [
             "Wawa Pam's favorite radio station",
@@ -36,10 +40,21 @@
             "broadcasting one hundred meters from Revely's bedroom"
         ],
         "fall" : [
-            "because it's warmer in the control room than it is outside"
+            "at least the squirrels haven't nibbled our transmitter down ... yet",
+            "because it's warmer in the control room than it is outside, good god like seriously"
         ],
         "politics" : [
-            "more entertaining than fox news on november 4th, 2008"
+            "it's morning again in America",
+            "I still like Ike",
+            "four more years",
+            "don't swap horses in midstream",
+            "more entertaining than fox news on november 4th, 2008",
+            "the republican party of virginia approved this next song"
+        ],
+        "technology" : [
+            "ask your parents before going online",
+            "now on vhs",
+            "as seen on TV"
         ]
     },
 
@@ -52,7 +67,8 @@
         ],
         "safety" : [
         "It's a fact. About 800 people, including more than 200 children, are killed annually in bicycle-related crashes nationwide, and about 60 percent of these deaths involve a head injury. The good news: research indicates that a helmet can reduce the risk of serious brain injury by 85 percent. Use your head. Use a helmet.",
-        "You wouldn't expect your child to jump on a bike without learning how to safely ride first. Why would you let him ride an ATV without proper training? Riding an ATV is not as easy as it looks. You've got to learn the ropes before you hit the trails. The best way to learn how to ride is to take a training class. Many are free. Too many riders have been killed or seriously injured on ATVs. Don't become a statistic. Take knowledge to the extreme. Log on today to www.atvsafety.gov"
+        "You wouldn't expect your child to jump on a bike without learning how to safely ride first. Why would you let him ride an ATV without proper training? Riding an ATV is not as easy as it looks. You've got to learn the ropes before you hit the trails. The best way to learn how to ride is to take a training class. Many are free. Too many riders have been killed or seriously injured on ATVs. Don't become a statistic. Take knowledge to the extreme. Log on today to www.atvsafety.gov",
+        "It's night time in a kitchen just like yours; all is quiet, or is it? The North American house hippo is found throughout Canada and the Eastern United States. House hippos are very timid creatures and they are rarely seen, but they will defend their territory if provoked. They come out at night to search for food, water, and materials for their nests. The favourite foods of the house hippo are chips, raisins and the crumbs from peanut butter on toast. They build their nests in bedroom closets using lost mittens, dryer lint and bits of string. The nests have to be very soft and warm; house hippos sleep about 16 hours a day. ... That sounded really real, but you knew it couldn't be true, didn't you? That's why it's good to think about what you're watching on TV, and ask questions, kind of like you just did. A message from Concerned Children's Advertisers."
         ]
     }
 
