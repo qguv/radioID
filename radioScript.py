@@ -85,6 +85,8 @@ elif doPsaChoice and not doChooseCategory:
 runLoop = True
 while runLoop:
     cls()
+    print(" [ BACK-ANNOUNCE LAST COUPLE SONGS ]")
+    print()
     pprint(choice(ids))
     print()
     pprint(choice(chuckleCategoryChoices))
